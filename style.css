@@ -1,0 +1,9 @@
+div {
+  display: flex;
+  border: 1px solid red;
+  justify-content: space-evenly;
+}
+
+h1 , h2 {
+  text-align: center;
+}
